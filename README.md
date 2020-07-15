@@ -1,6 +1,6 @@
 # Paul Trott
 
-> Web developer
+> Web Developer
 - Javascript, HTML, CSS
 
 > Employment History
