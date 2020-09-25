@@ -1,7 +1,7 @@
 # Paul Trott
 
 > Web Developer
-- Javascript, HTML, CSS
+- C#, Javascript, HTML, CSS
 
 > Employment History
 - City of Gosnells, Web Services Analyst
